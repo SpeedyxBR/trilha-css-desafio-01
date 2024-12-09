@@ -119,7 +119,7 @@ p {
     /* Define o tamanho da imagem de fundo para cobrir todo o elemento */
     background-size: cover;
     /* Define a imagem de fundo */
-    background-image: url("../images/woman-code.png");
+    background-image: url('/assets/images/woman-code.png');
     /* Define o estilo de anexo da imagem de fundo como fixo */
     background-attachment: fixed;
     /* Define uma borda superior sólida azul claro com 1px de espessura e opacidade de 80% */
