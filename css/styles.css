@@ -50,7 +50,7 @@ h2 {
     text-align: center; /* Centraliza horizontalmente */
 }
 
-p{
+p {
     color: white;
 }
 
@@ -58,8 +58,7 @@ p{
     font-size: 1.25rem;
     margin: 16px 0 24px;
   }
-
-  .banner .logo{
+ .banner .logo{
     background-color: rgba(0, 0, 0, .2);
     height: 260px;
     width: 260px;
@@ -120,7 +119,7 @@ p{
     /* Define o tamanho da imagem de fundo para cobrir todo o elemento */
     background-size: cover;
     /* Define a imagem de fundo */
-    background-image: url(/assets/images/woman-code.png);
+    background-image: url(assets/images/woman-code.png);
     /* Define o estilo de anexo da imagem de fundo como fixo */
     background-attachment: fixed;
     /* Define uma borda superior sólida azul claro com 1px de espessura e opacidade de 80% */
@@ -162,16 +161,16 @@ p{
   background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
   /* Define uma borda superior sólida azul claro com 1px de espessura e opacidade de 80% */
   border-top: 1px solid #33A8DB80;
-}
+  }
 
 /* Estilos para a classe dio-logo dentro do elemento footer */
   footer .dio-logo {
   width: 300px;
-}
+  }
 
 /* Estilos para links dentro do elemento footer */
   footer a {
   color: #33A8DB;
   font-weight: bold;
   text-decoration: none;
-}
+  }
